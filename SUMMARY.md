@@ -15,7 +15,7 @@
   	* [GetService](docs/api/service/get-service.md)
   * [关于Bucket的操作](docs/api/bucket/README.md)
     * [GetBucket](docs/api/bucket/get-bucket.md)
-    * [GetBucketAcl](docs/api/bucket/get0bucket-acl.md)
+    * [GetBucketAcl](docs/api/bucket/getbucket-acl.md)
   * [关于Object的操作](docs/api/object/README.md)
     * [GetObject](docs/api/object/get-object.md)
     * [HeadObject](docs/api/object/head-object.md)
