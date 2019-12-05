@@ -50,3 +50,4 @@
       * [取消任务](docs/api/media/transcode/delete-transcode-job.md)
       * [查询任务](docs/api/media/transcode/get-transcode-job.md)
     * [任务查询-待定](docs/api/media/get-status.md)
+* [测试中文路径](docs/中文/README.md)
