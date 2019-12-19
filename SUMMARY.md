@@ -25,7 +25,7 @@
     * [GetAvinfo](docs/api/object/get-avinfo.md)
     * [PutObject](docs/api/object/put-object.md)
     * [CopyObject](docs/api/object/copy-object.md)
-    * [AppendObject](docs/api/object/append-upload.md)
+    * [AppendObject](docs/api/object/append-object.md)
     * [DeleteObject](docs/api/object/delete-object.md)
     * [RestoreObject](docs/api/object/restore-object.md)
     * [PrefetchObject-待定](docs/api/object/pre-fetch-object.md)
